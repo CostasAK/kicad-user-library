@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_3PDT+LEDs
+F https://www.taydaelectronics.com/datasheets/files/foot_switch_3PDT.pdf
+$ENDCMP
+#
+#End Doc Library
